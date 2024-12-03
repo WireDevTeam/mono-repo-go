@@ -1,0 +1,6 @@
+github.com/WireDevTeam/mono-repo-go/packages/sendgrid-go v0.0.0-20241126040131-fe37ec0bd824 h1:b5BBfQyxK4wDHucCqRVU18cRX8NOoJ/oCDbCWGwy7IE=
+github.com/WireDevTeam/mono-repo-go/packages/sendgrid-go v0.0.0-20241126040131-fe37ec0bd824/go.mod h1:MIhrPKEk68axKxzvgUORLMyGjrYpjPwHI3qGRd5z+SU=
+github.com/sendgrid/rest v2.6.9+incompatible h1:1EyIcsNdn9KIisLW50MKwmSRSK+ekueiEMJ7NEoxJo0=
+github.com/sendgrid/rest v2.6.9+incompatible/go.mod h1:kXX7q3jZtJXK5c5qK83bSGMdV6tsOE70KbHoqJls4lE=
+github.com/sendgrid/sendgrid-go v3.16.0+incompatible h1:i8eE6IMkiCy7vusSdacHHSBUpXyTcTXy/Rl9N9aZ/Qw=
+github.com/sendgrid/sendgrid-go v3.16.0+incompatible/go.mod h1:QRQt+LX/NmgVEvmdRw0VT/QgUn499+iza2FnDca9fg8=

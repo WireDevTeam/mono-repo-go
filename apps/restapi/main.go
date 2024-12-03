@@ -3,7 +3,7 @@ package main
 import (
 	"fmt"
 	"log"
-	"github.com/myusername/my-monorepo/pkg/sendGridGo"
+	sendGridGo "github.com/WireDevTeam/mono-repo-go/packages/sendgrid-go"
 )
 
 func main() {

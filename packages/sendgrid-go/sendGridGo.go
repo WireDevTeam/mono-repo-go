@@ -14,6 +14,7 @@ type EmailData struct {
 	Email   string `json:"email"`
 	Body string `json:"body"`
 	Name string `json:"name"`
+	Extras  map[string]interface{} `json:"extras,omitempty"` // For dynamic properties
 }
 
 
